@@ -1,5 +1,5 @@
 # Martin Hepp's Github Page
-For more info, see http://www.heppnetz.de
+For more info, see [http://www.heppnetz.de](http://www.heppnetz.de).
 
 ## Featured Repositories
 - [The GoodRelations vocabulary for e-commerce](https://github.com/mfhepp/goodrelations), now the central e-commerce data model in schema.org.
